@@ -14,27 +14,27 @@ global.authFile = `sessions`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5214461018899', 'KeroppiBot', true],
-  ['5214171800894', 'Colaborador', true],
-  ['5214171800894', 'AntonyxT', true],
+  ['12238952303', 'Mexicanos', true],
+  ['5218336105471', 'Colaborador', true],
+  ['5214171800894', 'TILIN', true],
 ];
 
-global.suittag = ['5214171800894'];
-global.prems = ['5214171800894'];
+global.suittag = ['12238952303'];
+global.prems = ['12238952303'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'INTI BOT ⚡';
-global.author = 'INTI BOT ⚡';
-global.wm = 'INTI BOT ⚡';
+global.packname = '𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘';
+global.author = '𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘';
+global.wm = '𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘';
 global.idioma = 'es';
-global.ig = 'INTI BOT ⚡';
-global.etiqueta = 'ACTIVENSE INTI Bot ⚡ LES HABLA';
-global.emojietiqueta = '⚡';
-global.titulowm = 'INTI BOT ⚡';
-global.titulowm2 = `INTI BOT ⚡`
-global.igfg = 'INTI BOT ⚡';
+global.ig = '𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘';
+global.etiqueta = 'ACTIVENSE 𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘 LES HABLA';
+global.emojietiqueta = '😍';
+global.titulowm = '𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘';
+global.titulowm2 = `𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘`
+global.igfg = '𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,16 +54,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nINTI BOT ⚡`;
-global.gt = 'INTI BOT ⚡';
-global.mysticbot = 'INTI BOT ⚡';
+global.wm2 = `${dia} ${fecha}\n𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘`;
+global.gt = '𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘';
+global.mysticbot = '𝘝𝘌𝘕𝘖𝘔 - 𝘙𝘜𝘋𝘋𝘠 😘';
 global.channel = 'https://chat.whatsapp.com/C1nqw6mdT9JIfvXZ6lSzKp';
 global.md = 'https://chat.whatsapp.com/C1nqw6mdT9JIfvXZ6lSzKp';
 global.mysticbot = 'https://chat.whatsapp.com/C1nqw6mdT9JIfvXZ6lSzKp';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5214461018899';
+global.nomorown = '12238952303';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
